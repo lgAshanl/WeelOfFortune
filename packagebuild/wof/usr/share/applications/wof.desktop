@@ -5,4 +5,4 @@ Exec=/usr/bin/WOF
 Type=Application
 StartupNotify=false
 Categories=Utility;Network
-Keywords=takebox;
+Keywords=wof;
