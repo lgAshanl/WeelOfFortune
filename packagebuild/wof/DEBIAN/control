@@ -1,0 +1,5 @@
+Package: takebox
+Version: 1.0
+Architecture: amd64
+Maintainer: gas <ibob@1c.ru>
+Description: gos

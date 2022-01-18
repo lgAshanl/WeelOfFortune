@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=WeelOfFortune
+GenericName=WOF
+Exec=/usr/bin/WOF
+Type=Application
+StartupNotify=false
+Categories=Utility;Network
+Keywords=takebox;
